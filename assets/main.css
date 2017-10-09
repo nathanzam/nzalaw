@@ -1,0 +1,245 @@
+body{
+  background-image:url("nza_background.jpg");
+  z-index: 4;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+div.whitespace{
+  background-color:white;
+  margin:auto;
+  width:900px;
+  height:100%;
+  box-shadow: 1px 1px 1px 1px gray;
+  padding:10px;
+}
+
+img.logo{
+  margin-left:75px;
+  margin-top:38px;
+}
+
+footer{
+  margin: 0 auto;
+  text-align: center;
+}
+
+ul#navbar{
+  list-style-type:none;
+  border-top: .5px solid black;
+  border-bottom: .5px solid black;
+  margin-top:25px;
+  margin-left:42px;
+  margin-right:45px;
+  padding-top:5px;
+  padding-bottom:5px;
+  font-size:13.5px;
+}
+
+ul#navbar2 {
+  list-style-type:none;
+  margin-top:25px;
+  margin-left:42px;
+  margin-right:45px;
+  padding-top:5px;
+  padding-bottom:5px;
+  font-size:10px;
+  border-top: black 1px solid;
+}
+
+.copyright {
+  color: #c0c0c0;
+  text-align: center;
+  font-size: 10px
+}
+
+ul li {
+  display:inline;
+}
+
+
+li.slash{
+  color:#EEEBE1;
+  margin-left:21px;
+  margin-right:21px;
+}
+
+a {
+  color:black;
+}
+
+a:hover{
+  color:#923530;
+  text-decoration: none;
+}
+
+
+nav{
+  margin-bottom:10px;
+}
+
+div#redbox{
+  width:180px;
+  height:auto;
+  margin-left:26px;
+  background: #923530;
+  background: -webkit-linear-gradient(#923530, #923530, #923530, #8B322E, #7D2F2B);
+  background: -o-linear-gradient(#923530, #923530, #923530, #8B322E, #7D2F2B);
+  background: -moz-linear-gradient(#923530, #923530, #923530, #8B322E, #7D2F2B);
+  background: linear-gradient(#923530, #923530, #923530, #8B322E, #7D2F2B);
+
+}
+
+h6{
+  margin-left:-28px;
+  margin-bottom:10px;
+  padding-top:20px;
+  font-weight: bold;
+}
+
+hr{
+  color:black;
+  margin-top:-3px;
+  margin-bottom:10px;
+  margin-left:0px;
+  border-width:1px;
+  width:155px;
+}
+
+ul.sidebar{
+
+}
+
+ul li.sidebar{
+  display:block;
+  margin-left:-28px;
+  margin-bottom:8px;
+  font-size:12px;
+}
+
+img#sidebar{
+  margin-left:-28px;
+}
+
+a.sidebar{
+  color:white;
+}
+
+a.sidebar:hover{
+  font-weight: bold;
+}
+
+a.sidebar:visited{
+  color:white;
+}
+
+span.sidebarbold{
+  display:block;
+  color:white;
+  font-size:10px;
+  margin-top:1px;
+  margin-left:-28px;
+  font-weight:bold;
+}
+
+span.sidebar{
+  display:block;
+  color:white;
+  font-size:10px;
+  margin-left:-28px;
+  margin-top:-2px;
+  padding-bottom:7px;
+}
+
+img{
+  margin-left:10px;
+  padding-top:10px;
+}
+
+p{
+  margin-left:10px;
+  margin-top:15px;
+  font-size:12px;
+}
+
+strong{
+  color:black;
+}
+
+a.top2,a.archive{
+  text-decoration:underline;
+}
+
+a.top:visited{
+  color:black;
+}
+
+.box1 {
+  height: 272px;
+  width: 216px;
+}
+
+.rbox{
+  background-color: #DED7D1;
+  left: 35px;
+}
+
+.black {
+  color: black;
+  font-size: 10px;
+  display: block;
+  padding-bottom: 5px;
+  padding-right: 20px;
+}
+
+.holder {
+  margin: auto;
+}
+
+.attorneys {
+  margin-left: 10px;
+}
+
+.lawyers {
+  margin: 20px;
+  margin-left: 10px;
+  padding: 0;
+}
+
+.email, .address {
+  text-decoration: underline;
+}
+
+.at_law{
+  font-size: 12px;
+  padding-right: 10px;
+}
+
+.contact_pic {
+  margin-left: -30px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.name {
+  margin-top: 5px;
+  margin-bottom: -40px;
+}
+
+.job {
+  margin-top: -2px;
+}
+
+.phone {
+  margin-bottom: -20px;
+}
+
+.holdpic, .name {
+  display: inline-block;
+}
+
+.address {
+  margin-top: -2px;
+  padding-bottom: 20px;
+}
